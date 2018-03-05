@@ -1,0 +1,10 @@
+{
+  "name": "puppeteer-headless-perf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.1.1",
+    "speedline": "^1.3.1"
+  }
+}
